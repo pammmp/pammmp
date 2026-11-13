@@ -91,4 +91,4 @@ Bilingual (PT/EN) website with SSR and an admin panel.
 
 ## 📊 GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pammmp&show_icons=true&theme=transparent)
+![GitHub stats](./profile/stats.svg)
